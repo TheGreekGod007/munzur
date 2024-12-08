@@ -2,17 +2,16 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Wayne State University, PhD in Computer Engineering
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - 
+    date: Jan. 2023 - Aug. 2025
+  - title: Columbus State University, Masters in Applied Computer Science
     description:
       - Development of deep learning algorithms for automatically tracking the facial expressions
       - Optimizing parameter efficient fine tuning for fairness in medical image analysis
     grade: "**GPA**: `4.1/4.3`"
     date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+  - title: Rajshahi University of Engineering & Technology, Bachelor in Science in Computer Science & Engineering
+    grade: "**GPA**: `3.05/4`"
+    date: Feb. 2006 - Aug. 2011
